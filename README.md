@@ -3,6 +3,8 @@
 ## Overview
 A static hotel management and booking website designed to showcase hotel rooms, facilities, and services. The project focuses on clean UI design, structured navigation, and user-friendly presentation of hotel information.
 
+**Live Demo:** https://anuven21.github.io/Hotel-Management-Web-App/
+
 ## Domain
 Web Development | Hotel Management System
 
@@ -50,11 +52,11 @@ Landing page showcasing the hotel overview, navigation menu, and quick access to
 
 ### Room Page
 Displays available room types with details such as pricing, amenities, and room descriptions for user selection.  
-![Room Page](screenshots/room-page.png)
+![Room Page](screenshots/room-page1.png)
 
 ### Booking Page
 Allows users to select room options, enter booking details, and proceed with the reservation process.  
-![Booking Page](screenshots/booking-page.png)
+![Booking Page](screenshots/room-page2.png)
 
 ### Facilities Page
 Highlights hotel facilities and services provided to guests, enhancing the overall user experience.  
